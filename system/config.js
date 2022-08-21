@@ -1,7 +1,7 @@
 // Owner number
-global.owner = '6285221100126'
+global.owner = '6282146218274'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'RiellGanzz'
 // Maximum upload file size limit (Default : 250 MB)
 global.max_upload = 250
 // Delay for spamming protection (Default : 3 seconds)
@@ -22,7 +22,7 @@ global.Api = new (require('./neoxrApi'))('5VC9rvNx')
 global.chatai_bid = '164728'
 global.chatai_key = 'MKPsfkgXLZPGrWoH'
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ *RiellGanzz* ッ'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
